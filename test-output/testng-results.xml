@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-05T19:52:13 IST" name="Default suite" finished-at="2024-10-05T19:53:26 IST" duration-ms="72866">
+    <groups>
+    </groups>
+    <test started-at="2024-10-05T19:52:13 IST" name="Default test" finished-at="2024-10-05T19:53:26 IST" duration-ms="72866">
+      <class name="testpkg.parabank">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:52:13 IST" name="setup" finished-at="2024-10-05T19:52:19 IST" duration-ms="5066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="responcecode()[pri:0, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:52:19 IST" name="responcecode" finished-at="2024-10-05T19:52:20 IST" duration-ms="1123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responcecode -->
+        <test-method signature="logocheck()[pri:1, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:52:20 IST" name="logocheck" finished-at="2024-10-05T19:52:20 IST" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logocheck -->
+        <test-method signature="indexpage()[pri:2, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:52:20 IST" name="indexpage" finished-at="2024-10-05T19:52:21 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indexpage -->
+        <test-method signature="hamburgercheck()[pri:3, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:52:21 IST" name="hamburgercheck" finished-at="2024-10-05T19:52:53 IST" duration-ms="32686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamburgercheck -->
+        <test-method signature="registercheck()[pri:4, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:52:53 IST" name="registercheck" finished-at="2024-10-05T19:52:56 IST" duration-ms="2834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registercheck -->
+        <test-method signature="logintest()[pri:5, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:52:56 IST" name="logintest" finished-at="2024-10-05T19:53:06 IST" duration-ms="10112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="buttonvisibilitycheck()[pri:6, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:53:06 IST" name="buttonvisibilitycheck" finished-at="2024-10-05T19:53:06 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonvisibilitycheck -->
+        <test-method signature="buttonclickcheck()[pri:7, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:53:06 IST" name="buttonclickcheck" finished-at="2024-10-05T19:53:08 IST" duration-ms="1721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonclickcheck -->
+        <test-method signature="linktest()[pri:8, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:53:08 IST" name="linktest" finished-at="2024-10-05T19:53:24 IST" duration-ms="15698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linktest -->
+        <test-method signature="screenshot()[pri:9, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:53:24 IST" name="screenshot" finished-at="2024-10-05T19:53:24 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method signature="asserttitlecomparison()[pri:10, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:53:24 IST" name="asserttitlecomparison" finished-at="2024-10-05T19:53:24 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asserttitlecomparison -->
+        <test-method signature="mousehover()[pri:11, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:53:24 IST" name="mousehover" finished-at="2024-10-05T19:53:26 IST" duration-ms="1523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mousehover -->
+        <test-method signature="newwindow()[pri:12, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:53:26 IST" name="newwindow" finished-at="2024-10-05T19:53:26 IST" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newwindow -->
+        <test-method is-config="true" signature="end()[pri:0, instance:testpkg.parabank@45099dd3]" started-at="2024-10-05T19:53:26 IST" name="end" finished-at="2024-10-05T19:53:26 IST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- testpkg.parabank -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
